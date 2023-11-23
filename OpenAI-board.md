@@ -1,5 +1,4 @@
 OpenAI Board
-- Ilya Sutskever
-- Adam D'Angelo
-- Helen Toner
-- Tasha McCauley
+- Adam D'Angel
+- Bret Taylor
+- Larry Summers
